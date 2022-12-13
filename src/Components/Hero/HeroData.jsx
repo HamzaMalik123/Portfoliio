@@ -1,9 +1,7 @@
 import {
   FaFacebook,
   FaGithub,
-  FaInstagram,
   FaLinkedin,
-  FaTwitter,
 } from "../../../node_modules/react-icons/fa";
 
 const HeroData = [
