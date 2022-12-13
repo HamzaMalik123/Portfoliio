@@ -25,7 +25,11 @@ function Contact() {
             <MdCall />
           </div>
           <div className="discription" href="https://wa.me/+923056086871">
-            <a href=" https://wa.me/+491778741500" target="_blank">
+            <a
+              href=" https://wa.me/+491778741500"
+              target="_blank"
+              rel="noreferrer"
+            >
               {" "}
               +49 177 8741500{" "}
             </a>

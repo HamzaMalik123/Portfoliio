@@ -16,7 +16,7 @@ function Portfolio() {
                 <p className="card-title">{val.title}</p>
                 <p className="card-text">{val.details}</p>
                 <button>
-                  <a href={val.gitLink} target="_blank">
+                  <a href={val.gitLink} target="_blank" rel="noreferrer">
                     {" "}
                     Click Here{" "}
                   </a>

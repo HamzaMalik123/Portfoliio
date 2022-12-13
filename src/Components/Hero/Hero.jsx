@@ -23,7 +23,7 @@ function Hero() {
               return (
                 <li>
                   {" "}
-                  <a href={val.slink} target="_blank">
+                  <a href={val.slink} target="_blank" rel="noreferrer">
                     {val.icon}
                   </a>
                 </li>

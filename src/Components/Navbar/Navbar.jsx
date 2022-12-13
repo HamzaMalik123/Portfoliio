@@ -36,6 +36,7 @@ function Navbar() {
                 className="resume"
                 href="https://drive.google.com/file/d/1iTCc6dhieAphBvZISdUM0XXTqVWUsi85/view?usp=sharing"
                 target="_blank"
+                rel="noreferrer"
               >
                 Resume
               </a>
